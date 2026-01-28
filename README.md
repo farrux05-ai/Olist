@@ -98,5 +98,5 @@ Power BI dashboard includes:
 - Some categories may be missing/unknown due to incomplete product labels.
 
 ## Author
-Created by: **<YOUR NAME>**  
-LinkedIn: <YOUR LINK>  
+Created by: **Farruxbek Valijonov**  
+LinkedIn: <www.linkedin.com/in/farruxbek-valijonov-341975322>  
